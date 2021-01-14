@@ -1,0 +1,220 @@
+.logo{
+    width: 30%;
+}
+header{
+    background-color: #fff9f4;
+}
+.shoe-img{
+    width: 95%;
+    background-color: #F1F1F1;
+    border-radius: 10%;
+    margin: 0 auto;
+
+}
+.h2-color{
+    color: #F9804B;
+    font-weight: bold;
+}
+.perfect-image img{
+    width: 75%;
+}
+.perfect-border{
+    border-radius: 20px !important;
+}
+.img-resize img{
+    width: 100%;
+}
+.btn-customize{
+    background-color: #3848D3;
+    padding: 15px 25px;
+    border-radius: 20px;
+    color: white;
+    font-size: 20px;
+}
+// X-Small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) {
+    .logo{
+        width: 30%;
+    }
+    header{
+        background-color: #fff9f4;
+    }
+    .shoe-img{
+        width: 95%;
+        background-color: #F1F1F1;
+        border-radius: 10%;
+        margin: 0 auto;
+    
+    }
+    .h2-color{
+        color: #F9804B;
+        font-weight: bold;
+    }
+    .perfect-image img{
+        width: 75%;
+    }
+    .perfect-border{
+        border-radius: 20px !important;
+    }
+    .img-resize img{
+        width: 100%;
+    }
+    .btn-customize{
+        background-color: #3848D3;
+        padding: 15px 25px;
+        border-radius: 20px;
+        color: white;
+        font-size: 20px;
+    }
+}
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) {
+    .logo{
+        width: 30%;
+    }
+    header{
+        background-color: #fff9f4;
+    }
+    .shoe-img{
+        width: 95%;
+        background-color: #F1F1F1;
+        border-radius: 10%;
+        margin: 0 auto;
+    
+    }
+    .h2-color{
+        color: #F9804B;
+        font-weight: bold;
+    }
+    .perfect-image img{
+        width: 75%;
+    }
+    .perfect-border{
+        border-radius: 20px !important;
+    }
+    .img-resize img{
+        width: 100%;
+    }
+    .btn-customize{
+        background-color: #3848D3;
+        padding: 15px 25px;
+        border-radius: 20px;
+        color: white;
+        font-size: 20px;
+    }
+}
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) {
+    .logo{
+        width: 30%;
+    }
+    header{
+        background-color: #fff9f4;
+    }
+    .shoe-img{
+        width: 95%;
+        background-color: #F1F1F1;
+        border-radius: 10%;
+        margin: 0 auto;
+    
+    }
+    .h2-color{
+        color: #F9804B;
+        font-weight: bold;
+    }
+    .perfect-image img{
+        width: 75%;
+    }
+    .perfect-border{
+        border-radius: 20px !important;
+    }
+    .img-resize img{
+        width: 100%;
+    }
+    .btn-customize{
+        background-color: #3848D3;
+        padding: 15px 25px;
+        border-radius: 20px;
+        color: white;
+        font-size: 20px;
+    }
+}
+
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) {
+    .logo{
+        width: 30%;
+    }
+    header{
+        background-color: #fff9f4;
+    }
+    .shoe-img{
+        width: 95%;
+        background-color: #F1F1F1;
+        border-radius: 10%;
+        margin: 0 auto;
+    
+    }
+    .h2-color{
+        color: #F9804B;
+        font-weight: bold;
+    }
+    .perfect-image img{
+        width: 75%;
+    }
+    .perfect-border{
+        border-radius: 20px !important;
+    }
+    .img-resize img{
+        width: 100%;
+    }
+    .btn-customize{
+        background-color: #3848D3;
+        padding: 15px 25px;
+        border-radius: 20px;
+        color: white;
+        font-size: 20px;
+    }
+}
+
+// X-Large devices (large desktops, less than 1400px)
+@media (max-width: 1399.98px) {
+    .logo{
+        width: 30%;
+    }
+    header{
+        background-color: #fff9f4;
+    }
+    .shoe-img{
+        width: 95%;
+        background-color: #F1F1F1;
+        border-radius: 10%;
+        margin: 0 auto;
+    
+    }
+    .h2-color{
+        color: #F9804B;
+        font-weight: bold;
+    }
+    .perfect-image img{
+        width: 75%;
+    }
+    .perfect-border{
+        border-radius: 20px !important;
+    }
+    .img-resize img{
+        width: 100%;
+    }
+    .btn-customize{
+        background-color: #3848D3;
+        padding: 15px 25px;
+        border-radius: 20px;
+        color: white;
+        font-size: 20px;
+    }
+}
+
+// XX-Large devices ()
+// No media query since the xxl breakpoint has no upper bound on its width
